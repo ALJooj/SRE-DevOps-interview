@@ -8,7 +8,7 @@ metadata:
 spec:
   selector:
     matchLabels:
-      project: some-deployment   # создаю идентификатор 
+      project: some-deployment   # создаю идентификатор  
   template: 
     metadata:
       labels: 
